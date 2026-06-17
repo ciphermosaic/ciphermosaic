@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **a96711280@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
+<p>   </p>
 <p align="left">
 </p>
 
