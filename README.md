@@ -11,7 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ciphermosaic](https://github.com/ciphermosaic)
 
-- 💬 Ask me about **Tranformers, LangChain**
+- 💬 Ask me about **Tranformers, LLMs**
+
+-    All of my models are available at [https://huggingface.com/ciphermosaic](https://huggingface.com/ciphermosaic).
 
 - 📫 How to reach me **a96711280@gmail.com**
 
